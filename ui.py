@@ -1185,7 +1185,7 @@ st.markdown(
 <div class="footer-social">
 <a href="https://www.linkedin.com/in/vaishnavi-rathi-/" target="_blank">LinkedIn</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/vaishnavi-rathiii" target="_blank">GitHub</a>
+<a href="https://github.com/VaishnaviRathiii" target="_blank">GitHub</a>
 </div>
 <div class="footer-tagline">Intelligence Behind Every Video.</div>
 </div>
